@@ -18,6 +18,7 @@ Traducción arriba del readme, el archivo .zip
 
 
 link de la version de android:
+https://github.com/Bunuelos-Asociados/Let-sMeTomorrow-ES/releases/tag/NovelaVisual
 
 Versión 1.0
 
